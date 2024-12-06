@@ -26,8 +26,8 @@
         <MenuItem texto={menuItens[0][3]} href="/" />
     </Menu>
     <Menu titulo={titulos[1]}>
-        <MenuItem texto={menuItens[1][0]} href="/" />
-        <MenuItem texto={menuItens[1][1]} href="/" />
+        <MenuItem texto={menuItens[1][0]} href="/autores/j-k-rowling" />
+        <MenuItem texto={menuItens[1][1]} href="/autores/j-r-r-tolkien" />
         <MenuItem texto={menuItens[1][2]} href="/autores/george-martin" />
     </Menu>
     <Menu titulo={titulos[2]}>
